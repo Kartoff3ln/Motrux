@@ -90,7 +90,7 @@ export default {
       if (this.words.includes(this.targetWord)){
         gameStatus = 'Victoire';
         this.SetGameState(gameStatus);
-      } else if (this.words.length >= this.maxAttempts){
+      } else if (this.words.length >= this.maxAttempts && !this.words.includes(this.targetWord)){
         gameStatus = 'Defaite';
         this.SetGameState(gameStatus);
 
