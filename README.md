@@ -1,14 +1,10 @@
 # Projet Front
 
-## Members: REFOUR SCHIEMSKY ROUZAUD 
+Application web développé dans le cadre d'un projet de l'UE UI/UX & applications frontales du Master 1 IHM de l'Université de Toulouse (anciennement UT3 - Paul Sabatier).
+Elle est inspirée du jeu "Wordle" / "Motus" où le but est de trouver un mot en 6 essais maximum grâce à des indices après chaque essai: 
+La case se colore en vert si la lettre est bien placée, en jaun si la lettre est mal placée.
 
-### TP group : 
-- [ ] TPA41
-- [ ] TPA42
-- [ ] TPA51
-- [x] TPA52
-- [ ] Not selected
-
+## Members: LILIAN REFOUR MAËL SCHIEMSKY HECTOR ROUZAUD 
 
 
 ## Project setup
